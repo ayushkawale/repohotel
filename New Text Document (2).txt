@@ -1,0 +1,2 @@
+As work moves outward on the spiral the product moves toward a more complete state and the level of abstraction at which 
+work is performed is reduced (implementation specific work accelerates as we move further from the origin).
