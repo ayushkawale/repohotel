@@ -1,2 +1,1 @@
-# repohotel
-hotel managemnt
+This is an instruction file.
