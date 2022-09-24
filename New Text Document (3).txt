@@ -1,3 +1,4 @@
+shiv bhola bhandari
 Q1. Discuss the prototyping model. What is the effect of designing a prototype on the overall cost
 of the project?
 ANS: -
